@@ -1,0 +1,13 @@
+{
+    "dockerFile": "Dockerfile",
+    "remoteUser": "root",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools-extension-pack",
+                "ms-vscode.cmake-tools",
+                "ms-python.python"
+            ]
+        }
+    }
+}
